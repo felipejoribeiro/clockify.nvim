@@ -1,0 +1,6 @@
+[project]
+name = "clockify.nvim"
+version = "0.0.0"
+description = "Track your coding time in Neovim with Clockify."
+author = "Felipe J. O. Ribeiro"
+email = "felipejoribeiro1@gmail.com"
